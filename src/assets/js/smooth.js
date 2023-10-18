@@ -1,3 +1,3 @@
-export function menu() {
+export function smooth() {
   console.log(smooth)
 }

@@ -8,4 +8,4 @@ window.addEventListener("load", function () {
     link();
     menu();
     port();
-});
+})
